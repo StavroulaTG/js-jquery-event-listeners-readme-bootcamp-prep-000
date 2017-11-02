@@ -6,6 +6,6 @@ function getIt() {
 
 function frameIt() {
   $("img").on("load", function(){
-    $("img").on(".tasty")
+    $("img", + .tasty)
 }
 }
